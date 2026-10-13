@@ -1,8 +1,8 @@
 # Rendered by Scripts/render-cask.sh — edit the template in the note-bubble repo,
 # not the copy in the tap, or the next release will overwrite you.
 cask "note-bubble" do
-  version "1.1.0"
-  sha256 "2383be51b36044c0942e7966afb5801d835e0a47d827477a7cef194bb28ddf65"
+  version "1.1.1"
+  sha256 "acfae5217edc2f3345dad1c0ea08d997dbe31bc4a21c0cda28724496f12975e7"
 
   url "https://github.com/macknix/note-bubble/releases/download/v#{version}/NoteBubble-#{version}.zip"
   name "Note Bubble"
